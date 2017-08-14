@@ -9,8 +9,8 @@ unaligned regions for a query after BLASTN.
 This could be helpful in exploring differences
 between two species at the sequence level.
 
-#### Condition: Unaligned regions should be greater
-than a minimum length provided by the user.
+#### Condition: 
+Unaligned regions should be greater than a minimum length provided by the user.
 
 #### Inputs: 
 1) A BLAST file (tsv) with columns in this order:
@@ -32,8 +32,8 @@ For Example - Unaligned_output.csv
 [Default : 14] 
 
 
-#### Output: A csv file with unaligned coordinates for 
-the query sequence.
+#### Output: 
+A csv file with unaligned coordinates for the query sequence.
 
 [Default : Unaligned_output.csv]
 
